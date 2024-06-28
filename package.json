@@ -1,0 +1,21 @@
+{
+    "name": "react-set-multiple-refs",
+    "version": "1.0.0",
+    "description": "A utility function that allows you to combine multiple refs into a single ref callback",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "SupraSmooth",
+    "license": "BSD-3-Clause",
+    "devDependencies": {
+        "@types/node": "^20.14.9",
+        "@types/react": "^18.3.3",
+        "eslint": "^9.6.0",
+        "eslint-config-prettier": "^9.1.0",
+        "prettier": "^3.3.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.2"
+    }
+}
