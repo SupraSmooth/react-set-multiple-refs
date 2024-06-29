@@ -1,8 +1,14 @@
 # react-set-multiple-refs
 
-[![License](https://badgen.net/badge/License/BSD/3)](https://github.com/SupraSmooth/react-set-multiple-refs/blob/master/LICENSE)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/@suprasmooth/react-set-multiple-refs)
-![npm](https://img.shields.io/npm/v/@suprasmooth/react-set-multiple-refs)
+[![SupraSmooth - react-set-multiple-refs](https://img.shields.io/static/v1?label=SupraSmooth&message=react-set-multiple-refs&color=blue&logo=github)](https://github.com/SupraSmooth/react-set-multiple-refs 'Go to GitHub repo')
+[![stars - react-set-multiple-refs](https://img.shields.io/github/stars/SupraSmooth/react-set-multiple-refs?style=social)](https://github.com/SupraSmooth/react-set-multiple-refs)
+[![forks - react-set-multiple-refs](https://img.shields.io/github/forks/SupraSmooth/react-set-multiple-refs?style=social)](https://github.com/SupraSmooth/react-set-multiple-refs)
+
+[![GitHub release](https://img.shields.io/github/release/SupraSmooth/react-set-multiple-refs?include_prereleases=&sort=semver&color=blue)](https://github.com/SupraSmooth/react-set-multiple-refs/releases/)
+[![License](https://img.shields.io/badge/License-BSD-blue)](#license)
+[![issues - react-set-multiple-refs](https://img.shields.io/github/issues/SupraSmooth/react-set-multiple-refs)](https://github.com/SupraSmooth/react-set-multiple-refs/issues)
+
+[![on npm - @suprasmooth/react-set-multiple-refs](https://img.shields.io/badge/dependency-%40suprasmooth%2Freact--set--multiple--refs-blue?logo=typescript&logoColor=white)](https://www.npmjs.com/package/@suprasmooth/react-set-multiple-refs)
 
 `setRefs` is a utility function for React or React-based frameworks like NextJS that allows you to combine multiple refs into a single ref callback. This is particularly useful when you need to pass multiple refs to a single DOM element.
 
@@ -131,4 +137,4 @@ Open source welcomes contributions! Please follow these steps to contribute:
 
 ## License
 
-See LICENSE file in the root of this repository.
+Released under [BSD 3-Clause License](https://github.com/SupraSmooth/react-set-multiple-refs/blob/master/LICENSE) by [@SupraSmooth](https://github.com/SupraSmooth).
