@@ -1,11 +1,15 @@
 # react-set-multiple-refs
 
+[![License](https://badgen.net/badge/License/BSD/3)](https://github.com/SupraSmooth/react-set-multiple-refs/blob/master/LICENSE)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/@suprasmooth/react-set-multiple-refs)
+![npm](https://img.shields.io/npm/v/@suprasmooth/react-set-multiple-refs)
+
 `setRefs` is a utility function for React or React-based frameworks like NextJS that allows you to combine multiple refs into a single ref callback. This is particularly useful when you need to pass multiple refs to a single DOM element.
 
 ## Installation
 
 ```sh
-npm react-set-multiple-refs
+npm install react-set-multiple-refs
 ```
 
 ## Usage

@@ -1,13 +1,33 @@
 {
-    "name": "react-set-multiple-refs",
+    "name": "@suprasmooth/react-set-multiple-refs",
     "version": "1.0.0",
     "description": "A utility function that allows you to combine multiple refs into a single ref callback",
+    "keywords": [
+        "react",
+        "nextjs",
+        "multiple",
+        "references",
+        "refs",
+        "utility",
+        "typescript",
+        "module"
+    ],
     "main": "index.js",
     "scripts": {
         "build": "tsc"
     },
-    "keywords": [],
-    "author": "SupraSmooth",
+    "author": "@suprasmooth",
+    "bugs": {
+        "url": "https://github.com/SupraSmooth/react-set-multiple-refs/issues"
+    },
+    "types": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SupraSmooth/react-set-multiple-refs.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
     "license": "BSD-3-Clause",
     "devDependencies": {
         "@types/node": "^20.14.9",
