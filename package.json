@@ -1,6 +1,6 @@
 {
     "name": "@suprasmooth/react-set-multiple-refs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A utility function that allows you to combine multiple refs into a single ref callback",
     "keywords": [
         "react",
